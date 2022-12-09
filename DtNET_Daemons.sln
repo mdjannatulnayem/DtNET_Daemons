@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtNET_Daemons", "DtNET_Daemons\DtNET_Daemons.csproj", "{6BD07305-B092-4546-9282-0B19F318DDC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BD07305-B092-4546-9282-0B19F318DDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD07305-B092-4546-9282-0B19F318DDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD07305-B092-4546-9282-0B19F318DDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD07305-B092-4546-9282-0B19F318DDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {643488DC-BCE3-45F1-9CFE-8C38C7C8E6CC}
+	EndGlobalSection
+EndGlobal
